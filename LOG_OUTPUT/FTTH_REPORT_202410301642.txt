@@ -1,0 +1,1 @@
+SUB_ID|CUST_ID|ISDN|PACKAGE_ID|PRODUCT_ID|SUB_TYPE|CUST_TYPE|NAME_SUB|NAME_CUS|TEL_FAX|STA_DATETIME|FIRST_CONNECT|STATUS_DATE|BSS_STS|PACKAGE_CODE|PACKAGE_NAME|PACKAGE_STATUS|MONTHLY_FEE1|MONTHLY_FEE0|DAILY_FEE|_id|username|package_id|expire_date|ip_address|customer_enable|user_state|create_date|update_date|status|package_name|Status|Value_
